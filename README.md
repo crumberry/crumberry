@@ -1,4 +1,5 @@
 # Easy to install, open source Discord bot!
+https://discord.gg/Czpq7Jd
 
 #### What you will need : 
 - npm 6 or higher
