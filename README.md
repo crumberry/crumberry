@@ -1,5 +1,5 @@
 # Easy to install, open source Discord bot!
-https://discordapp.com/api/guilds/760671114232856647/widget.png?style=shield
+[![TOP.GG Badge](https://discord.com/api/guilds/760671114232856647/widget.png?style=shield)](https://discord.gg/Czpq7Jd)
 
 #### What you will need : 
 - npm 6 or higher
