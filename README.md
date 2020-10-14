@@ -1,5 +1,5 @@
 # Easy to install, open source Discord bot!
-https://discordapp.com/api/guilds/552253941845458957/widget.png?style=shield
+https://discordapp.com/api/guilds/760671114232856647/widget.png?style=shield
 
 #### What you will need : 
 - npm 6 or higher
