@@ -3,8 +3,9 @@
 [![TOP.GG Badge](https://discord.com/api/guilds/264445053596991498/widget.png?style=shield)](https://discord.gg/dbl)
 
 #### What you will need : 
-- npm 6 or higher
+- npm 6 or higher 
 - node 12 or higher
+#### which can be found [here](https://nodejs.org/)
 
 ### How to install and run the bot
 - open the config.json file and add your bot token (can be found on the Discord Developers page)
