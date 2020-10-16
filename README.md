@@ -8,7 +8,7 @@
 #### which can be found [here](https://nodejs.org/)
 
 ### How to install and run the bot
-- open the config.json file and add your bot token (can be found on the (Discord Developers)[https://discord.com/developers/applications/] page)
+- open the config.json file and add your bot token. (can be found on the [Discord Developers](https://discord.com/developers/applications/) page)
 - add a prefix
 - open a terminal window and navigate to the location of your bot.js file.
 - use the `npm install` command
